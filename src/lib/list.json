@@ -1,0 +1,362 @@
+{
+    "miPros": [
+        [
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/82ddffd7562c54f9166fa876c143ff22.png?thumb=1&w=160&h=110&f=webp&q=90",
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a4a76ee684e51f0ee531ef3dc7f0aeaf.png?thumb=1&w=160&h=110&f=webp&q=90",
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/be92bc4baa572bf467fc9e881fd4be2a.png?thumb=1&w=160&h=110&f=webp&q=90",
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/41c566d825a3ae3b5751a78d4c7cffdb.png?thumb=1&w=160&h=110&f=webp&q=90",
+            "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f515ab05232ed14ccd78ec67e024495a.png?thumb=1&w=160&h=110",
+            "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/df9b3e7a562e02a33eb069b3f0119815.png?thumb=1&w=160&h=110"
+        ],
+        [
+            "小米10 Pro",
+            "小米10",
+            "小米CC9 Pro",
+            "小米9 Pro 5G",
+            "小米CC9",
+            "小米CC9e"
+        ],
+        [
+            "4999元起",
+            "3999元起",
+            "2599元起",
+            "3699元起",
+            "1699元起",
+            "1299元起"
+        ]
+    ],
+    "rmPros": [
+        [
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cff2977b8aab1e43b94b2f00083f4ae1.jpg?thumb=1&w=160&h=110&f=webp&q=90",
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/742a328bdaa242aea89ec2a9c8661013.jpg?thumb=1&w=160&h=110&f=webp&q=90",
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/398311b2e6f47ac324ba0421a0ac1b80.png?thumb=1&w=160&h=110&f=webp&q=90",
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/dacd6a3d8440b7a038e9778702bd6db6.png?thumb=1&w=160&h=110&f=webp&q=90",
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8ee0af37bbd2f5a83c799e87dd791037.png?thumb=1&w=160&h=110&f=webp&q=90",
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a9734e0314fec470ff6912a8a92da5e6.png?thumb=1&w=160&h=110&f=webp&q=90"
+        ],
+        [
+            "Redmi K30",
+            "Redmi K30 5G",
+            "Redmi 8A",
+            "Redmi 8",
+            "Redmi Note8",
+            "Redmi Note Pro"
+        ],
+        [
+            "1599元起",
+            "1999元起",
+            "599元起",
+            "899元起",
+            "1299元起",
+            "699元起"
+        ]
+    ],
+    "tvs": [
+        [
+            "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6917267948c54c647d2009a98637aac6.jpg?thumb=1&w=160&h=110&f=webp&q=90",
+            "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/00f597a8725eee9245e383c35cd4f7b6.jpg?thumb=1&w=160&h=110",
+            "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a40904b6a053b73b631a152334388d0e.jpg?thumb=1&w=160&h=110",
+            "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e8f4e22f6d591825f8f150b3309c750b.png?thumb=1&w=160&h=110",
+            "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/bf72a3e9a6e799cb71ecfa7d80465351.jpg?thumb=1&w=160&h=110",
+            "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/bd922870295a97a0972eaba5af92129e.jpg?thumb=1&w=160&h=110"
+        ],
+        [
+            "红米电视 70英寸",
+            "小米壁画电视 65英寸",
+            "小米全屏电视 E678",
+            "小米电视4A 32",
+            "小米电视4A 64",
+            "小米电视4A 75"
+        ],
+        [
+            "3299元起",
+            "6999元起",
+            "1799元起",
+            "699元起",
+            "1699元起",
+            "2599元起"
+        ]
+    ],
+    "pus": [
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1569297737.97669352!200x200.jpg",
+            "title": "小米MIX Alpha",
+            "id": "1",
+            "price_old": "1111",
+            "price_new": "999"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1547450131.90883073!200x200.jpg",
+            "title": "米家激光投影电视 4K",
+            "id": "2",
+            "price_old": "2222",
+            "price_new": "999"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1572925348.19088381!200x200.jpg",
+            "title": "小米电视5 75 PRO英寸",
+            "id": "3",
+            "price_new": "3333",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1498624482.88089389!200x200.jpg",
+            "title": "米家激光投影电视 150英寸",
+            "id": "4",
+            "price_new": "4444",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1551870054.99929237!200x200.jpg",
+            "title": "小米电视4 75英寸",
+            "id": "5",
+            "price_new": "5555",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1570689561.96457280!200x200.jpg",
+            "title": "游戏本2019款 i7-9750H 16G 1T PCIe GTX 1660",
+            "id": "6",
+            "price_new": "6666",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1557312623.98719913!200x200.jpg",
+            "title": "小米游戏本 i7-9750H 16G 512GB GTX1660Ti 144Hz",
+            "id": "7",
+            "price_new": "7777",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1564108297.21922273!200x200.jpg",
+            "title": "小米游戏本15.6' 8代i7 GTX1060 16G 512G SSD",
+            "id": "8",
+            "price_new": "8888",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1570776021.01714698!200x200.jpg",
+            "title": "Pro15.6 I7 16G 1T PCIe GTX1050Max-Q",
+            "id": "9",
+            "price_new": "9999",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1571050610.28516718!200x200.jpg",
+            "title": "米家激光投影电视 专用抗光屏",
+            "id": "10",
+            "price_new": "1010",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1572837172.34055639!200x200.jpg",
+            "title": "小米电视5 75英寸",
+            "id": "11",
+            "price_new": "1111",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1533264175.2117303!200x200.jpg",
+            "title": "15.6 Pro i7 16G 1050MAX-Q 256G",
+            "id": "12",
+            "price_new": "1212",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1555935546.09711490!200x200.jpg",
+            "title": "小米壁画电视 65英寸",
+            "id": "13",
+            "price_new": "1313",
+            "pri,ce_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1564108251.37711755!200x200.jpg",
+            "title": "pro15.6 I7 16G 1T PCIe GTX1050Max-Q",
+            "id": "14",
+            "price_new": "1414",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1553153931.54795879!200x200.jpg",
+            "title": "Pro15.6 I7 16G 1T PCIe GTX1050Max-Q",
+            "id": "15",
+            "price_new": "1515",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1571559783.46456142!200x200.jpg",
+            "title": "小米壁画电视 65英寸",
+            "id": "16",
+            "price_new": "1616",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1570776288.42589500!200x200.jpg",
+            "title": "米家激光投影电视 专用抗光屏",
+            "id": "17",
+            "price_new": "1717",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1582267474.82313234!200x200.jpg",
+            "title": "小米壁画电视 65英寸",
+            "id": "18",
+            "price_new": "1818",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1559028554.20186490!200x200.png",
+            "title": "小米壁画电视 65英寸",
+            "id": "19",
+            "price_new": "1919",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1533266333.04566853!200x200.jpg",
+            "title": "米家激光投影电视 专用抗光屏",
+            "id": "20",
+            "price_new": "2020",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1575892416.40368934!200x200.jpg",
+            "title": "pro15.6 I7 16G 1T PCIe GTX1050Max-Q",
+            "id": "21",
+            "price_new": "2121",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1575892416.40368934!200x200.jpg",
+            "title": "米家激光投影电视 专用抗光屏",
+            "id": "22",
+            "price_new": "2222",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1572868360.8284015!200x200.jpg",
+            "title": "pro15.6 I7 16G 1T PCIe GTX1050Max-Q",
+            "id": "23",
+            "price_new": "2323",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1524636075.71677607!200x200.jpg",
+            "title": "小米游戏本 i5-9300H 8G 512GB GTX1660Ti 144Hz",
+            "id": "24",
+            "price_new": "2424",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1525231579.56571137!200x200.jpg",
+            "title": "小米笔记本Pro 15.6",
+            "id": "25",
+            "price_new": "2525",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1553153643.14871317!200x200.jpg",
+            "title": "立式空调A（3匹/变频/超一级能效）",
+            "id": "26",
+            "price_new": "2626",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1553153877.70796830!200x200.jpg",
+            "title": "米家激光投影仪",
+            "id": "27",
+            "price_new": "2727",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1525231442.13261362!200x200.jpg",
+            "title": "15.6 Pro i5 8G 1050MAX-Q 256G",
+            "id": "28",
+            "price_new": "2828",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1542942602.3045157!200x200.jpg",
+            "title": "15.6 Pro i7 16G 1050MAX-Q 256G",
+            "id": "29",
+            "price_new": "2929",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1559382570.06626252!200x200.jpg",
+            "title": "Pro15.6 I7 16G 1T PCIe GTX1050Max-Q",
+            "id": "30",
+            "price_new": "3030",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1569297737.97669352!200x200.jpg",
+            "title": "小米MIX Alpha",
+            "id": "31",
+            "price_new": "23232",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1547450131.90883073!200x200.jpg",
+            "title": "米家激光投影电视 4K",
+            "id": "32",
+            "price_new": "2222",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1572925348.19088381!200x200.jpg",
+            "title": "小米电视5 75 PRO英寸",
+            "id": "33",
+            "price_new": "3333",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1498624482.88089389!200x200.jpg",
+            "title": "米家激光投影电视 150英寸",
+            "id": "34",
+            "price_new": "4444",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1551870054.99929237!200x200.jpg",
+            "title": "小米电视4 75英寸",
+            "id": "35",
+            "price_new": "5555",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1570689561.96457280!200x200.jpg",
+            "title": "游戏本2019款 i7-9750H 16G 1T PCIe GTX 1660",
+            "id": "36",
+            "price_new": "6666",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1557312623.98719913!200x200.jpg",
+            "title": "小米游戏本 i7-9750H 16G 512GB GTX1660Ti 144Hz",
+            "id": "37",
+            "price_new": "7777",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1564108297.21922273!200x200.jpg",
+            "title": "小米游戏本15.6' 8代i7 GTX1060 16G 512G SSD",
+            "id": "38",
+            "price_new": "8888",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1570776021.01714698!200x200.jpg",
+            "title": "Pro15.6 I7 16G 1T PCIe GTX1050Max-Q",
+            "id": "39",
+            "price_new": "9999",
+            "price_old": "10000"
+        },
+        {
+            "url": "https://i1.mifile.cn/a1/pms_1571050610.28516718!200x200.jpg",
+            "title": "米家激光投影电视 专用抗光屏",
+            "id": "40",
+            "price_new": "6666",
+            "price_old": "8888"
+        }
+    ]
+}

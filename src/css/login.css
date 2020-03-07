@@ -1,0 +1,160 @@
+header {
+  height: 98px;
+}
+
+header img {
+  margin-top: 25px;
+  margin-left: 110px;
+}
+
+main {
+  height: 584px;
+  background: url(https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7f25f8c94bac0a8bfb3c6a3e30e5b7dd.jpg) top center;
+
+  background-repeat: no-repeat;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.box {
+  width: 410px;
+  height: 558px;
+  margin: 32px 0 0 828px;
+  overflow: hidden;
+  background: #fff;
+  line-height: 1;
+}
+
+.box > p {
+  display: flex;
+  margin-top: 32px;
+}
+
+.box > p span {
+  width: 50%;
+  height: 28px;
+  font-size: 22px;
+  text-indent: 42px;
+  line-height: 28px;
+}
+
+.box > p span:nth-child(1) {
+  border-right: 2px solid #e0e0e0;
+  color: #f56600;
+  text-indent: 66px;
+}
+
+.box div {
+  position: relative;
+}
+
+.box div span {
+  position: absolute;
+  top: 8px;
+  color: red;
+  display: none;
+}
+
+.box div:nth-of-type(1) {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.box div:nth-of-type(1) input {
+  width: 348px;
+  height: 50px;
+  border: 1px solid #e0e0e0;
+  font-size: 14px;
+  text-indent: 14px;
+}
+
+.box div:nth-of-type(1) input::-webkit-input-placeholder {
+  color: #9b9b9b;
+}
+
+.box div:nth-of-type(1) input:nth-of-type(1) {
+  margin: 34px 0 14px 0;
+}
+
+.box div:nth-of-type(1) i {
+  margin: 3px 0;
+  font-size: 13px;
+  color: #f56600;
+  text-align: left;
+}
+
+.box div:nth-of-type(1) p {
+  display: flex;
+  justify-content: space-between;
+  width: 348px;
+  height: 52px;
+  margin-top: 24px;
+  font-size: 14px;
+  text-align: center;
+  line-height: 50px;
+  cursor: pointer;
+}
+
+.box div:nth-of-type(1) p button {
+  width: 150px;
+  color: #fff;
+  background: #ff6700;
+}
+
+.box div:nth-of-type(1) strong {
+  display: flex;
+  justify-content: space-between;
+  width: 348px;
+  margin-top: 13px;
+  font-size: 13px;
+  color: #999;
+  line-height: 1;
+}
+
+.box div:nth-of-type(1) strong em:nth-of-type(1) {
+  color: #ff6700;
+}
+
+.box div:nth-of-type(1) strong a {
+  color: #999;
+}
+
+.box div:nth-of-type(1) fieldset {
+  width: 348px;
+  border: none;
+  border-top: 1px solid #999;
+  margin-top: 130px;
+  font-size: 13px;
+  color: #999;
+  text-align: center;
+}
+
+.box div:nth-of-type(1) fieldset legend {
+  margin-bottom: 16px;
+}
+
+.box div:nth-of-type(1) fieldset img {
+  margin: 0 17px;
+  float: left;
+}
+
+.box div:nth-of-type(2) {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  font-size: 13px;
+  color: #757575;
+}
+
+.box div:nth-of-type(2) img {
+  margin: 144px 0 21px;
+}
+
+.box div:nth-of-type(2) span {
+  margin-bottom: 6px;
+}
+
+.box div:nth-of-type(2) span b {
+  color: #ff6700;
+}

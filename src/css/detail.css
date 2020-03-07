@@ -1,0 +1,39 @@
+.goodsInfo {
+  width: 1200px;
+  height: 600px;
+  border: 1px solid #333;
+  margin: 20px auto;
+  display: flex;
+  align-items: center;
+}
+.goodsInfo .left {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.goodsInfo .right {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 460px;
+  font-size: 40px;
+}
+
+.goodsInfo .right .price{
+  color: red;
+}
+
+.goodsInfo .right .price_old{
+  color: #ccc;
+  text-decoration:line-through;
+}
+
+.goodsInfo .right button {
+  width: 200px;
+  height: 50px;
+  font-size: 30px;
+  cursor: pointer;
+}

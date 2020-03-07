@@ -1,0 +1,50 @@
+[
+  {
+    "name": "小米10",
+    "desc": "骁龙865/1亿像素相机",
+    "price": 3999,
+    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0099822e42b4428cb25c4cdebc6ca53d.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+  },
+  {
+    "name": "Readmi K30",
+    "desc": "120Hz流速屏，全速热爱",
+    "price": 1599,
+    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2c16238f786e4f93bdb175d7bf21aa47.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+  },
+  {
+    "name": "Readmi K30 5G",
+    "desc": "双模5G 120Hz流速屏",
+    "price": 1999,
+    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/53641901fbc28cbcdb495b17fdf69e46.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+  },
+  {
+    "name": "小米CC9 PRO",
+    "desc": "1亿像素 五摄四闪",
+    "price": 2599,
+    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/07270cc09689eb9b13b29aa9f6bc41eb.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+  },
+  {
+    "name": "Readmi 8",
+    "desc": "5000mAh 超长待机",
+    "price": 749,
+    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d295c4fb500d163a7045dc715b47f808.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+  },
+  {
+    "name": "Readmi 8A",
+    "desc": "5000mAh 超长待机",
+    "price": 599,
+    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c924c3f3436b6934495fd98f159ee3f7.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+  },
+  {
+    "name": "Readmi Note 8Pro",
+    "desc": "6400万全景四摄",
+    "price": 1299,
+    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6f2493e6c6fe8e2485c407e5d75e3651.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+  },
+  {
+    "name": "Readmi Note8",
+    "desc": "千元4800万四摄",
+    "price": 999,
+    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4c87947d104ee5833913e4c520108f16.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+  }
+]

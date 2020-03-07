@@ -1,0 +1,130 @@
+.cart {
+  width: 1200px;
+  margin: 30px auto;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #333;
+}
+
+.cart > .top {
+  height: 60px;
+  border-bottom: 1px solid #333;
+  display: flex;
+  align-items: center;
+  font-size: 35px;
+}
+
+.cart > .top > input {
+  width: 40px;
+  height: 40px;
+}
+
+.cart > .top > p {
+  padding-left: 40px;
+}
+
+.cart > .center > li {
+  display: flex;
+  margin: 10px;
+  border: 1px solid #333;
+}
+
+.cart > .center > li > .select {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid #333;
+}
+
+.cart > .center > li > .select > input {
+  width: 30px;
+  height: 30px;
+}
+
+.cart > .center > li > .info {
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+}
+
+.cart > .center > li > .info > img {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin-right: 10px;
+}
+
+.cart > .center > li > .price {
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+  margin-left: 50px;
+}
+
+.cart > .center > li > .number {
+  margin-left: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.cart > .center > li > .number > button {
+  width: 30px;
+  height: 30px;
+}
+
+.cart > .center > li > .number > input {
+  height: 30px;
+  border: none;
+  outline: none;
+  width: 100px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.cart > .center > li > .xiaoji {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  font-size: 30px;
+}
+
+.cart > .center > li > .del {
+  margin-left: 50px;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.cart > .bottom {
+  height: 60px;
+  border-top: 1px solid #333;
+  font-size: 35px;
+  display: flex;
+  align-items: center;
+}
+
+.cart > .bottom > p {
+  padding-right: 40px;
+}
+
+.cart > .bottom > button {
+  margin-right: 40px;
+  width: 200px;
+  height: 50px;
+  font-size: 30px;
+}
+
+.cart > .bottom > button.pay {
+  background-color: skyblue;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul, li {
+  list-style: none;
+}

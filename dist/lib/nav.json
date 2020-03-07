@@ -1,0 +1,395 @@
+[
+  {
+    "name": "手机电话卡",
+    "list": [
+      {
+        "list_name": "小米10PRO",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d622e8a81f81caa0f619ee750cf64501.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4a7a4f24061860901f724b6ba6d75fd9.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10PRO",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d622e8a81f81caa0f619ee750cf64501.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4a7a4f24061860901f724b6ba6d75fd9.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10PRO",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d622e8a81f81caa0f619ee750cf64501.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4a7a4f24061860901f724b6ba6d75fd9.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米cc9",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d622e8a81f81caa0f619ee750cf64501.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米cc9PRO",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4a7a4f24061860901f724b6ba6d75fd9.png?thumb=1&w=40&h=40&f=webp&q=90"
+      }
+    ]
+  },
+  {
+    "name": "电视盒子",
+    "list": [
+      {
+        "list_name": "小米电视5 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 65寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 75寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视PRO 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      }
+    ]
+  },
+  {
+    "name": "笔记本 显示器 平板",
+    "list": [
+      {
+        "list_name": "ReadmiBook 13",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "ReadmiBook 15.6",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "ReadmiBook 13.3",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "ReadmiBook 12.5",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      }
+      ,
+      {
+        "list_name": "ReadmiBook 15.6",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "ReadmiBook 13.3",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "ReadmiBook 12.5",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      }
+      ,
+      {
+        "list_name": "ReadmiBook 15.6",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "ReadmiBook 13.3",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "ReadmiBook 12.5",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      }
+      ,
+      {
+        "list_name": "ReadmiBook 15.6",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "ReadmiBook 13.3",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "ReadmiBook 12.5",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      }
+    ]
+  },
+  {
+    "name": "家电 插线板",
+    "list": [
+      {
+        "list_name": "冰箱",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "立式空调",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "挂壁空调",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "净水器",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "微波炉",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "立式空调",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "挂壁空调",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "净水器",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "微波炉",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "立式空调",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "挂壁空调",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "净水器",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "微波炉",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "立式空调",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "挂壁空调",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "净水器",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "微波炉",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "立式空调",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      }
+    ]
+  },
+  {
+    "name": "手机电话卡",
+    "list": [
+      {
+        "list_name": "小米10PRO",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d622e8a81f81caa0f619ee750cf64501.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4a7a4f24061860901f724b6ba6d75fd9.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10PRO",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d622e8a81f81caa0f619ee750cf64501.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4a7a4f24061860901f724b6ba6d75fd9.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10PRO",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d622e8a81f81caa0f619ee750cf64501.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4a7a4f24061860901f724b6ba6d75fd9.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米cc9",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d622e8a81f81caa0f619ee750cf64501.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米cc9PRO",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4a7a4f24061860901f724b6ba6d75fd9.png?thumb=1&w=40&h=40&f=webp&q=90"
+      }
+    ]
+  },
+  {
+    "name": "电视盒子",
+    "list": [
+      {
+        "list_name": "小米电视5 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 65寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 75寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视PRO 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      }
+    ]
+  },
+  {
+    "name": "笔记本 显示器 平板",
+    "list": [
+      {
+        "list_name": "ReadmiBook 13",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "ReadmiBook 15.6",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "ReadmiBook 13.3",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "ReadmiBook 12.5",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aee86bcd8bf491eb78ae234d2e188a66.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      }
+    ]
+  },
+  {
+    "name": "家电 插线板",
+    "list": [
+      {
+        "list_name": "冰箱",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "立式空调",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "挂壁空调",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "净水器",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "微波炉",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/abeb200aaaee68d4635c6235d3ffb3f3.jpg?thumb=1&w=40&h=40&f=webp&q=90"
+      }
+    ]
+  },
+  {
+    "name": "手机电话卡",
+    "list": [
+      {
+        "list_name": "小米10PRO",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d622e8a81f81caa0f619ee750cf64501.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4a7a4f24061860901f724b6ba6d75fd9.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10PRO",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d622e8a81f81caa0f619ee750cf64501.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4a7a4f24061860901f724b6ba6d75fd9.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10PRO",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d622e8a81f81caa0f619ee750cf64501.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米10",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4a7a4f24061860901f724b6ba6d75fd9.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米cc9",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d622e8a81f81caa0f619ee750cf64501.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米cc9PRO",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4a7a4f24061860901f724b6ba6d75fd9.png?thumb=1&w=40&h=40&f=webp&q=90"
+      }
+    ]
+  },
+  {
+    "name": "电视盒子",
+    "list": [
+      {
+        "list_name": "小米电视5 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 65寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 75寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视PRO 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      },
+      {
+        "list_name": "小米电视5 55寸",
+        "list_src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23316088a9182a08c624958319924d8d.png?thumb=1&w=40&h=40&f=webp&q=90"
+      }
+    ]
+  }
+]
